@@ -1,0 +1,7 @@
+{
+    "token": "YOUR TOKEN",
+    "prefix": ":t",
+    "owner": ["YOUR No.", "Your No."],
+    "playingStatus": ":t help",
+    "tsChannelsEnabled": true
+}
